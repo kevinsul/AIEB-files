@@ -22,7 +22,9 @@ Important links:
 -	To attend the discussion live, go here at the appropriate time:  https://aka.ms/aieb-teams.  
 -	Download a recurring meeting invite (.ICS) to add this series to your calendar here:  https://aka.ms/aieb-invite.
 -	We will provide an archive of past Azure Intelligent Edge Briefs here:  https://aka.ms/aieb-channel.
+
 Briefing Schedule:
+
 -	06/21 @ 11:ooAM – 11:30AM US Central Standard Time
 -	07/05 – No Briefing in Observance of July 4th Holiday
 -	07/19 @ 11:00AM – 11:30AM US Central Standard Time
