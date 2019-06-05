@@ -1,6 +1,6 @@
 # Azure Intelligent Edge Brief Agenda
 
-***AIEB Agenda for 6/21***
+***Azure Intelligent Edge Briefing Agenda for 6/21***
 
 Agenda:
 -	Overview of the latest news surrounding Azure Intelligent Edge solutions
