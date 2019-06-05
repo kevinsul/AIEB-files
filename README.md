@@ -4,13 +4,12 @@
 
 Agenda:
 -	Overview of the latest news surrounding Azure Intelligent Edge solutions
--	Azure Stack IaaS Management and Migration Resources Deep Dive (Tiberie Radu/Azure Stack GBB Team)
+-	Azure Stack IaaS Management and Migration Resources Deep Dive (Tiberiu Radu/Azure Stack GBB Team)
 -	Q&A
 
 
 ***General Information***
 
-Azure Intelligent Edge Brief
 Please join us every other Friday for a brief (30 minute) discussion on all the great solutions MSFT offers ‘at the edge’ – Azure Stack, Azure Databox Edge, Azure Stack HCI, and more.  We will plan to provide a brief of the latest news and announcements regarding Azure Intelligent Edge technologies and will focus the majority of the time diving into 1 or 2 focus areas related to bringing Azure to the edge.
 
 Agenda:
