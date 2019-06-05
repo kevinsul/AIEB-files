@@ -2,7 +2,7 @@
 
 ***Azure Intelligent Edge Briefing Agenda for 6/21***
 
-Agenda:
+##Agenda:##
 -	Overview of the latest news surrounding Azure Intelligent Edge solutions
 -	Azure Stack IaaS Management and Migration Resources Deep Dive (Tiberiu Radu/Azure Stack GBB Team)
 -	Q&A
