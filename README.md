@@ -2,6 +2,14 @@
 
 ***AIEB Agenda for 6/21***
 
+Agenda:
+-	Overview of the latest news surrounding Azure Intelligent Edge solutions
+-	Azure Stack IaaS Management and Migration Resources Deep Dive (Tiberie Radu/Azure Stack GBB Team)
+-	Q&A
+
+
+***General Information***
+
 Azure Intelligent Edge Brief
 Please join us every other Friday for a brief (30 minute) discussion on all the great solutions MSFT offers ‘at the edge’ – Azure Stack, Azure Databox Edge, Azure Stack HCI, and more.  We will plan to provide a brief of the latest news and announcements regarding Azure Intelligent Edge technologies and will focus the majority of the time diving into 1 or 2 focus areas related to bringing Azure to the edge.
 
@@ -32,19 +40,3 @@ Briefing Schedule:
 -	12/20 @ 11:00AM – 11:30AM US Central Standard Time
 
 This series is open to everyone!
-
-
-
-![alt text](https://github.com/kevinsul/azurestack-rras/blob/master/stack-rras1.JPG)
-
-Requirements:
-
-- ASDK or Azure Stack Integrated System with latest updates applied.
-- Required Azure Stack Marketplace items:
-    -  Windows Server 2016 Datacenter (latest build recommended)
-    -  Custom Script Extension
-    
-The only parameters this template requires is for naming the Administrator account for the RRAS servers and password for the Administrator accounts.  If you wish to provide custom values for the VNET IP ranges, subnets, names, etc., the variables (and in some cases explicit values within the various sections of the template) within the template can be modified accordingly.  Be careful to keep these values within legal ranges as deployment may fail.
-
-Also note the custom powershell script that is executed via the custom script extension on each RRAS VM.  This script installs RRAS and all required dependent services and features, and configures the IKEv2 IPSec tunnel between the two RRAS servers with a shared key.
-
