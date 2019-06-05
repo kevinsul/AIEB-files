@@ -7,7 +7,10 @@
 ##### -	Azure Stack IaaS Management and Migration Resources Deep Dive (Tiberiu Radu/Azure Stack GBB Team) ###
 #### -	Q&A ###
 
-
+ #
+ #
+  
+  
 
 
 ***General Information***
