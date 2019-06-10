@@ -30,7 +30,7 @@ Important links:
 
 Briefing Schedule:
 
--	06/21 @ 11:ooAM – 11:30AM US Central Standard Time
+-	06/21 @ 11:00AM – 11:30AM US Central Standard Time
 -	07/05 – No Briefing in Observance of July 4th Holiday
 -	07/19 @ 11:00AM – 11:30AM US Central Standard Time
 -	08/02 @ 11:00AM – 11:30AM US Central Standard Time
