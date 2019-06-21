@@ -26,7 +26,8 @@ This series starts 6/21/2019 @ 11:00AM – 11:30AM US Central Standard Time.  We
 Important links:
 -	To attend the discussion live, go here at the appropriate time:  https://aka.ms/aieb-teams.  
 -	Download a recurring meeting invite (.ICS) to add this series to your calendar here:  https://aka.ms/aieb-invite.
--	We will provide an archive of past Azure Intelligent Edge Briefs here:  https://aka.ms/aieb-channel.
+-	We will provide an archive of past Azure Intelligent Edge Briefs recordings here:  https://aka.ms/aieb-channel.
+- We will provide an archive of past AIEB PPTX Materials here:    
 
 Briefing Schedule:
 
