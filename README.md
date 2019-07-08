@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-##### -	Azure Stack HCI:  What is it and Why you should care! (Duane Bourgeois/Azure Stack GBB Team) ###
+#### -	Azure Stack HCI:  What is it and Why you should care! (Duane Bourgeois/Azure Intelligent Edge Team) ###
 #### -	Q&A ###
 
  #
