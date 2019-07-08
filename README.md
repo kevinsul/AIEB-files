@@ -1,10 +1,10 @@
 # Azure Intelligent Edge Brief Agenda
 
-***Azure Intelligent Edge Briefing Agenda for 6/21***
+***Azure Intelligent Edge Briefing Agenda for 7/19***
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-##### -	Azure Stack IaaS Management and Migration Resources Deep Dive (Tiberiu Radu/Azure Stack GBB Team) ###
+##### -	Azure Stack HCI:  What is it and Why you should care! (Duane Bourgeois/Azure Stack GBB Team) ###
 #### -	Q&A ###
 
  #
