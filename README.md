@@ -1,6 +1,6 @@
 # Azure Intelligent Edge Brief Agenda
 
-***Azure Intelligent Edge Briefing Agenda for 7/19***
+***Azure Intelligent Edge Briefing Agenda for 8/2***
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
