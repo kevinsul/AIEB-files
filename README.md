@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-## -	Detecting safety violations using Azure Data Box Edge and Cognitive Services ##
+## -	Save Cnfiguration Time with the ASDKConfigurator! ##
 #### -	Q&A ###
 
  #
