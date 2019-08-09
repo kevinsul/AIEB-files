@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-## -	Save Cnfiguration Time with the ASDKConfigurator! ##
+## -	Save Precious Configuration Time with the ASDK Configurator! ##
 #### -	Q&A ###
 
  #
