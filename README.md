@@ -31,7 +31,6 @@ Important links:
 
 Briefing Schedule:
 
--	08/16 @ 11:00AM – 11:30AM US Central Standard Time
 -	08/30 @ 11:00AM – 11:30AM US Central Standard Time
 -	09/13 @ 11:00AM – 11:30AM US Central Standard Time
 -	09/27 @ 11:00AM – 11:30AM US Central Standard Time
