@@ -1,10 +1,10 @@
 # Azure Intelligent Edge Brief Agenda
 
-***Azure Intelligent Edge Briefing Agenda for 8/16***
+***Azure Intelligent Edge Briefing Agenda for 8/30***
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-## -	Save Precious Configuration Time with the ASDK Configurator! ##
+## -	Cognitive on Containers:  Learn what is available today and the use cases with Azure Stack ##
 #### -	Q&A ###
 
  #
