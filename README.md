@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-## -	Cognitive on Containers:  Learn what is available today and the use cases with Azure Stack ##
+#### -	Cognitive on Containers:  Learn what is available today and the use cases with Azure Stack ####
 #### -	Q&A ###
 
  #
