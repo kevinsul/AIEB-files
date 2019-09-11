@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Azure Stack:  Interconnectivity Options Between VNETs and VNEts to the On-Premises Network ####
+#### -	Azure Stack:  Interconnectivity Options Between VNETs and VNETs to the On-Premises Network ####
 #### -	Q&A ###
 
  #
