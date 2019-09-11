@@ -1,10 +1,10 @@
 # Azure Intelligent Edge Brief Agenda
 
-***Azure Intelligent Edge Briefing Agenda for 8/30***
+***Azure Intelligent Edge Briefing Agenda for 9/13***
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Cognitive on Containers:  Learn what is available today and the use cases with Azure Stack ####
+#### -	Azure Stack:  Interconnectivity Options Between VNETs and VNEts to the On-Premises Network ####
 #### -	Q&A ###
 
  #
@@ -31,7 +31,6 @@ Important links:
 
 Briefing Schedule:
 
--	08/30 @ 11:00AM – 11:30AM US Central Standard Time
 -	09/13 @ 11:00AM – 11:30AM US Central Standard Time
 -	09/27 @ 11:00AM – 11:30AM US Central Standard Time
 -	10/11 @ 11:00AM – 11:30AM US Central Standard Time
