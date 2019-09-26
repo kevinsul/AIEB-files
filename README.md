@@ -1,10 +1,10 @@
 # Azure Intelligent Edge Brief Agenda
 
-***Azure Intelligent Edge Briefing Agenda for 9/13***
+***Azure Intelligent Edge Briefing Agenda for 9/27***
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Azure Stack:  Interconnectivity Options Between VNETs and VNETs to the On-Premises Network ####
+#### -	Azure Data Box Edge:  A simple walkthrough ####
 #### -	Q&A ###
 
  #
@@ -31,7 +31,6 @@ Important links:
 
 Briefing Schedule:
 
--	09/13 @ 11:00AM – 11:30AM US Central Standard Time
 -	09/27 @ 11:00AM – 11:30AM US Central Standard Time
 -	10/11 @ 11:00AM – 11:30AM US Central Standard Time
 -	10/25 @ 11:00AM – 11:30AM US Central Standard Time
