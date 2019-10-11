@@ -1,10 +1,10 @@
 # Azure Intelligent Edge Brief Agenda
 
-***Azure Intelligent Edge Briefing Agenda for 10/11***
+***Azure Intelligent Edge Briefing Agenda for 10/25***
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Azure Stack:  BCDR Options and Guidance ####
+#### -	Azure Stack:  Fleet Management ####
 #### -	Q&A ###
 
  #
@@ -31,7 +31,6 @@ Important links:
 
 Briefing Schedule:
 
--	10/11 @ 11:00AM – 11:30AM US Central Standard Time
 -	10/25 @ 11:00AM – 11:30AM US Central Standard Time
 -	11/08 @ 11:00AM – 11:30AM US Central Standard Time
 -	11/22 @ 11:00AM – 11:30AM US Central Standard Time
