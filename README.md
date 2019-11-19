@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Intelligent Edge Feature Announcements from Ignite:  A 'non-Marketing' Review ####
+#### -	Review of Edge Announcments from Ignite ####
 #### -	Q&A ###
 
  #
