@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Azure Stack:  Fleet Management ####
+#### -	Intelligent Edge Feature Announcements from Ignite:  A 'non-Marketing' Review ####
 #### -	Q&A ###
 
  #
@@ -31,8 +31,6 @@ Important links:
 
 Briefing Schedule:
 
--	10/25 @ 11:00AM – 11:30AM US Central Standard Time
--	11/08 - WEEK OF IGNITE - NO AIEB SESSION!
 -	11/22 @ 11:00AM – 11:30AM US Central Standard Time
 -	12/06 @ 11:00AM – 11:30AM US Central Standard Time
 -	12/20 @ 11:00AM – 11:30AM US Central Standard Time
