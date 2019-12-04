@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Review of Edge Announcments from Ignite ####
+#### -	Azure Arc for Data Services ####
 #### -	Q&A ###
 
  #
@@ -31,7 +31,6 @@ Important links:
 
 Briefing Schedule:
 
--	11/22 @ 11:00AM – 11:30AM US Central Standard Time
 -	12/06 @ 11:00AM – 11:30AM US Central Standard Time
 -	12/20 @ 11:00AM – 11:30AM US Central Standard Time
 
