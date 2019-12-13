@@ -1,10 +1,10 @@
 # Azure Intelligent Edge Brief Agenda
 
-***Azure Intelligent Edge Briefing Agenda for 12/06***
+***Azure Intelligent Edge Briefing Agenda for 12/20***
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Azure Arc for Data Services ####
+#### -	Azure Arc for Servers ####
 #### -	Q&A ###
 
  #
@@ -31,7 +31,6 @@ Important links:
 
 Briefing Schedule:
 
--	12/06 @ 11:00AM – 11:30AM US Central Standard Time
 -	12/20 @ 11:00AM – 11:30AM US Central Standard Time
 
 This series is open to everyone!
