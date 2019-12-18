@@ -4,7 +4,7 @@
 
 #### Agenda: ##
 #### -	Overview of the latest news surrounding Azure Intelligent Edge solutions ###
-#### -	Azure Arc for Servers ####
+#### -	Azure Arc for Servers:  Onboarding Walkthrough w/ Azure Stack Hub VM’s ####
 #### -	Q&A ###
 
  #
